@@ -59,7 +59,7 @@ function install_Package {
     cd $PREFIX/bin
     if test -x "python"; then
         echo -e " \e[40;32m[+] Pacote Python Instalado!\e[0m"
-        pip install -r ~/N.G.I/requirements.txt > /dev/null
+        pip install -r ~/N.G.I/requerements.txt > /dev/null
         sleep 1.5
 
     else
