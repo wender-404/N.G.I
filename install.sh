@@ -18,8 +18,8 @@ function main_Banner {
 function finish_Banner {
     clear
     echo -e "▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░       @ Author : Dreifus-404"
-    echo -e "▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░       @ Github : github.com/Dreifus-404"
-    echo -e "▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░"
+    echo -e "▐▓█\e[30m░░\e[1;37m▀\e[0;30m░░\e[1;37m▀▄\e[0;30m░░\e[0m█▓▌░█▄▄▄█░       @ Github : github.com/Dreifus-404"
+    echo -e "▐▓█\e[30m░░\e[1;37m▄\e[0;30m░░\e[1;37m▄▀\e[0;30m░░\e[0m█▓▌░█▄▄▄█░"
     echo -e "▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░"
     echo -e "░░░░▄▄███▄▄░░░░░█████░"
     echo -e "----------------------"
